@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BVQXJMCF.js";import{v as t}from"./index-BF6Tax_i.js";var n=e();function r({value:e,className:r=``}){return(0,n.jsx)(`span`,{className:`font-medium tabular-nums ${e>0?`text-win`:e<0?`text-loss`:`text-flat`} ${r}`,children:t(e)})}export{r as t};
