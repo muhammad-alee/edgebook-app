@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BVQXJMCF.js";import{_ as t}from"./index-B4F1Xf8p.js";var n=e();function r({value:e,className:r=``}){return(0,n.jsx)(`span`,{className:`font-medium tabular-nums ${e>0?`text-win`:e<0?`text-loss`:`text-flat`} ${r}`,children:t(e)})}export{r as t};
